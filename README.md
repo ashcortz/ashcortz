@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ashcortz
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data analytics, database management, digital marketing
+- 👋 Hi, I’m Ashley!
+- 👀 I’m interested in providing insightful solutions using data analytics
 - 📫 How to reach me linkedin: @ashcortz
 
 <!---
