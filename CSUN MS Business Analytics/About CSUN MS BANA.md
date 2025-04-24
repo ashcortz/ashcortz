@@ -3,6 +3,7 @@ About this section:
 This folder contains various projects and assignments I've completed throughout my Master's program for Business Analytics at CSUN (2023 - 2025)
 
 Overall GPA: 3.8 
+
 Classes include:
 
 | **Semester**  | **Class Name** | **Description** |**Grade**|
